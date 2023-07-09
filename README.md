@@ -4,6 +4,12 @@ Tabat is a simple 2D multiplayer video game with a voice chat integerity in unit
 
 ## Initalize the project
 
-You can import the project into unity and then build the project
+Import the project into unity then you have to create both PUN and Voice Applications in Photon from [https://dashboard.photonengine.com/](https://dashboard.photonengine.com/)
 
-But you have to put your PUN 2 app id as well as the Photon Voice 2 app id which you can get from [https://dashboard.photonengine.com/](here)
+Unity>Window>Photon Unity Networking>Highlight Server Settings
+
+From there you fill out the applications id there and the project is ready to be built.
+
+## Notes
+
+I have only built the project in Android, I haven't tested in iOS yet.
